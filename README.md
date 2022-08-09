@@ -12,7 +12,7 @@ Im here to share some useful source codes for people who are looking to create c
     <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/> </a>
 </p>
 
-## 📈 Statistics:
+## Statistics:
 
 <table>
     <tr>
