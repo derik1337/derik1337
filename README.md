@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Derik!</h1>
 
-Im here to share some useful source codes for people who are looking to create cheat software for games
+Im here to share some useful projects and code examples, everything i share is for learning
 
 ## Languages and Tools:
 
